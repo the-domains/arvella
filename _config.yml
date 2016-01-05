@@ -1,7 +1,7 @@
 name: Arvella
 favicon: null
-layout_spectrum: 0.002796519547700882
-typography_spectrum: 0.0698836522642523
+layout_spectrum: 0
+typography_spectrum: 0.89511
 cta:
   domain: null
   bucket: null
